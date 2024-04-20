@@ -67,6 +67,7 @@ Response Body (Failed) :
   "error" :  "customer not found",
 }
 ```
+<hr>  
 
 
 ## Create Destination
@@ -298,7 +299,7 @@ Response Body (Failed) :
 }
 ```
 
-
+<hr>  
 
 ## Create Booking
 Endpoint : PUT /booking
